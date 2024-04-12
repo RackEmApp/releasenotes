@@ -5,6 +5,7 @@
  - Added Lola's Pool party branding to 147 sports custom screens
  - Removed table clash flag in new season wizard fixtures list for byes as its not relevant
  - Fixed a bug with Bye removal in new season wizard not working
+ - Fixed an issue starting a round in a group round which is not a single day event not working
 
 *App - 12th April 2024 (1.0.14)*
  - Fixed issue with Start Match button not appearing
