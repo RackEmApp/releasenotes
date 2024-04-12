@@ -6,6 +6,10 @@
  - Removed table clash flag in new season wizard fixtures list for byes as its not relevant
  - Fixed a bug with Bye removal in new season wizard not working
 
+*App - 12th April 2024 (1.0.14)*
+ - Fixed issue with Start Match button not appearing
+ - Added message at the top of teams screen to make it more obvious that they need to swipe between teams when they are registered to more than one
+
 *Platform - 5th April 2024*
  - Fixed issue with team handicaps not being saved/applied properly to competitions
  - Fixed break indicator in Evolve's custom stream overlay
