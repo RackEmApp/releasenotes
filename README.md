@@ -1,4 +1,9 @@
 # RackEmApp Release Notes
+*Platform - 12th April 2024*
+ - Fixed issue saving "result based on match sections" property in league table profile
+ - Fixed issue with competition groups league table profiles nlot saving/overwriting with blank values
+ - Added Lola's Pool party branding to 147 sports custom screens
+
 *Platform - 5th April 2024*
  - Fixed issue with team handicaps not being saved/applied properly to competitions
  - Fixed break indicator in Evolve's custom stream overlay
