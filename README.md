@@ -3,6 +3,8 @@
  - Fixed issue saving "result based on match sections" property in league table profile
  - Fixed issue with competition groups league table profiles nlot saving/overwriting with blank values
  - Added Lola's Pool party branding to 147 sports custom screens
+ - Removed table clash flag in new season wizard fixtures list for byes as its not relevant
+ - Fixed a bug with Bye removal in new season wizard not working
 
 *Platform - 5th April 2024*
  - Fixed issue with team handicaps not being saved/applied properly to competitions
