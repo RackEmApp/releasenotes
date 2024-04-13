@@ -1,4 +1,7 @@
 # RackEmApp Release Notes
+*Platform - 13th April 2024*
+ - Fixed issue with Stripe checkout not completing correctly when returned back to RackEmAPp
+
 *Platform - 12th April 2024*
  - Fixed issue saving "result based on match sections" property in league table profile
  - Fixed issue with competition groups league table profiles nlot saving/overwriting with blank values
