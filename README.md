@@ -3,6 +3,8 @@
  - Fixed issue with Stripe checkout not completing correctly when returned back to RackEmApp
  - Added Averages Name property to allow for a button to be added in the app
  - Fixed issue where Predetermined Knockout rounds were not editable
+ -  Fixed live scores issue when there is a comp match in play but is not a group match throwing an error due to missing league table profile
+ - Fixed issue preventing the generation of receipts when no competition entries are selected
 
 *Platform - 12th April 2024*
  - Fixed issue saving "result based on match sections" property in league table profile
