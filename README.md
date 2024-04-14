@@ -1,4 +1,9 @@
 # RackEmApp Release Notes
+*Platform - 14th April 2024*
+ - Added advance button to group matches to allow singles leagues with unfulfilled matxhes to be progressed or completed
+ - Made a change to record the match played date even if the lag or start match button is not pressed
+ - Fixed scoreboard not showing the complete button when in a best of match with handicaps
+
 *Platform - 13th April 2024*
  - Fixed issue with Stripe checkout not completing correctly when returned back to RackEmApp
  - Added Averages Name property to allow for a button to be added in the app
