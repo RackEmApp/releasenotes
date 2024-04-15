@@ -1,6 +1,6 @@
 # RackEmApp Release Notes
 *App - 15th April 2024 (1.0.15)*
- - Added button in my teams to go straight to Averages/Player Ststas
+ - Added button in my teams to go straight to Averages/Player Stats
  - Fixed scorecard loop not disposing properly
  - Fixed issue when registering a new player that requires payment not routing to the checkout properly
  - Hidden New Player button when the user has no captain rights
@@ -8,6 +8,9 @@
 *Platform - 15th April 2024*
  - Fixed Arbitrary Points System not saving values correctly
  - Fixed Arbitrary Points System not awarding points correctly
+ - Fixed issue with competition entries not loading the partial view correctly
+ - Set toasters to appear on top of modals
+ - Updated player list to show read only email address when a player is linked to a user
 
 *Platform - 14th April 2024*
  - Added advance button to group matches to allow singles leagues with unfulfilled matxhes to be progressed or completed
