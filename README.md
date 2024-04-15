@@ -4,7 +4,7 @@
  - Fixed scorecard loop not disposing properly
  - Fixed issue when registering a new player that requires payment not routing to the checkout properly
  - Hidden New Player button when the user has no captain rights
- - 
+
 *Platform - 14th April 2024*
  - Added advance button to group matches to allow singles leagues with unfulfilled matxhes to be progressed or completed
  - Made a change to record the match played date even if the lag or start match button is not pressed
