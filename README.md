@@ -1,5 +1,7 @@
 # RackEmApp Release Notes
-This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release nots, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
+This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
+
+---
 
 ***App** - 15th April 2024 (1.0.15)*
  - Added button in my teams to go straight to Averages/Player Stats
