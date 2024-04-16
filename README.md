@@ -2,6 +2,8 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 16th April 2024 (1.0.16)*
+ - Fixed issue where you could not enter team competitions from the dashboard
 
 ***App** - 15th April 2024 (1.0.15)*
  - Added button in my teams to go straight to Averages/Player Stats
