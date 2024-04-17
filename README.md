@@ -2,6 +2,15 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 18th April 2024*
+ - Added ability to create a new "Parent" team for season teams to be registered/moved into
+ - Fixed issue where registering an existing player through the app which should be paid for online not directing to the checkout
+ - Fixed issue where multi-league setups not showing the right assigned team to a player
+ - Fixed issue accessing referee mode/not setting match format to null when saving competition details
+ - Fixed issue with live league tables not working
+ - Fixed issue preventing completion of a group stage competition when Byes exist
+ - Added ability for competition table selection in predetermined kncomouts to auto-assign to downstream rounds
+
 ***App** - 16th April 2024 (1.0.16)*
  - Fixed issue where you could not enter team competitions from the dashboard
 
