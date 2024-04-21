@@ -3,6 +3,9 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 18th April 2024*
+ - Added new player statistics method for "Game Based" which will consider a match section as a game within a match and award wins/losses accordingly.
+ - 
+***Platform** - 18th April 2024*
  - Added ability to create a new "Parent" team for season teams to be registered/moved into
  - Fixed issue where registering an existing player through the app which should be paid for online not directing to the checkout
  - Fixed issue where multi-league setups not showing the right assigned team to a player
