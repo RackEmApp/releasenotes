@@ -2,7 +2,7 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - 16th April 2024 (1.0.16)*
+***App** - 16th April 2024 (1.0.20)*
  - Fixed image upload picker issues across Android and iOS
  - Fixed issue where "points based on sections" not allowing you submit the result
 
