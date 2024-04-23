@@ -2,9 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 23rd April 2024*
+ - Added collapsible round settings in competition management for a better UX
+ - Added On/By for dates in non single day event group stages (singles leagues)
+ - Tidied up competition page where it was not a single day event with scheduled matches making the rounds look funny
+
 ***Platform** - 22nd April 2024*
  - Extended Game Based averages to include complex calculation requirement for Cowes District Pool League
- - 
+
 ***App** - 22nd April 2024 (1.0.20)*
  - Fixed image upload picker issues across Android and iOS
  - Fixed issue where "points based on sections" not allowing you submit the result
