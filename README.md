@@ -9,8 +9,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added QR code to competition draw sheet to allow direct access to the scoreboard
  - Fixed issue showing RD and BD instead of the actual values in league tables
  - Fixed issue preventing download of fixtures CSV when there is a Bye/no venue or table assigned
-
-Added the ability for you to re-compelte competitions, which will overwrite existing Roll of Honour, Series Points and Trophies to help correct mistakes.
+ - Added the ability for you to re-compelte competitions, which will overwrite existing Roll of Honour, Series Points and Trophies to help correct mistakes.
+   
 ***Platform** - 23rd April 2024*
  - Added collapsible round settings in competition management for a better UX
  - Added On/By for dates in non single day event group stages (singles leagues)
