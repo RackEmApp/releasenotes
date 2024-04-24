@@ -5,6 +5,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ***Platform** - 24th April 2024*
  - When creating a competition for losers in a Series, it will associate that competition to the series. This will allow you to run a plate which also scores points towards th rankings.
  - Complete Competition will now be able to be performed more than once. This means if a mistake is made it will clean up the erroneous roll of honour and trophies
+ - Bug fix series competition tables not identifying entries when obtaining frame results
 
 Added the ability for you to re-compelte competitions, which will overwrite existing Roll of Honour, Series Points and Trophies to help correct mistakes.
 ***Platform** - 23rd April 2024*
