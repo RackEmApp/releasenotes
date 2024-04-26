@@ -3,6 +3,11 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 24th April 2024*
+ - Fixed issue with competition date picker not hiding the date in competition management
+ - Fixed issue with competition page not displaying round date
+ - Added 1 decimal place to any average method using a combination of calculations
+
+***Platform** - 24th April 2024*
  - When creating a competition for losers in a Series, it will associate that competition to the series. This will allow you to run a plate which also scores points towards th rankings.
  - Complete Competition will now be able to be performed more than once. This means if a mistake is made it will clean up the erroneous roll of honour and trophies
  - Bug fix series competition tables not identifying entries when obtaining frame results
