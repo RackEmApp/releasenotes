@@ -2,7 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 24th April 2024*
+***Platform** - 28th April 2024*
+ - Prevented app player registrations from saving if the player is already registered to a team for that season
+ - Prevent the saving of a competition entry with a blank description
+
+***Platform** - 26th April 2024*
  - Fixed issue with competition date picker not hiding the date in competition management
  - Fixed issue with competition page not displaying round date
  - Added 1 decimal place to any average method using a combination of calculations
