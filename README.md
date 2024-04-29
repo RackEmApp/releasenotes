@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 29th April 2024*
+ - Fixed issue saving player due to incorrect input type in code
+
 ***Platform** - 28th April 2024*
  - Prevented app player registrations from saving if the player is already registered to a team for that season
  - Prevent the saving of a competition entry with a blank description
