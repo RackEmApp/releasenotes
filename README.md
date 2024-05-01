@@ -4,7 +4,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ---
 ***Platform** - 1st May 2024*
  - Fixed issue which caused new players not be registered when using the app
- - 
+
 ***Platform** - 29th April 2024*
  - Fixed issue saving player due to incorrect input type in code
  - Fixed issue setting player names blank when they have a user account and saving them in the admin player list
