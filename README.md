@@ -2,11 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 4th May 2024*
+***Platform** - 5th May 2024*
  - Fixed bug which stops competition page (groups) showing when no league table profile is defined
  - Fixed scoreboard showing complete match too early for Sets based matches
  - Fixed error in processing comp matches where league table profiles have match section bonus points, but no match format is assigned
  - Added sets matches back in
+ - Began switch of emailing engine away from Elastic Email
+ - Fixed bug saving players in the app when registering for a team on a different league day
 
 ***Platform** - 1st May 2024*
  - Fixed issue which caused new players not be registered when using the app
