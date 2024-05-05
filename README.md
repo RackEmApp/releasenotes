@@ -9,6 +9,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added sets matches back in
  - Began switch of emailing engine away from Elastic Email
  - Fixed bug saving players in the app when registering for a team on a different league day
+ - Fix to league table sort when by Wins, Frames, Head to Head
 
 ***Platform** - 1st May 2024*
  - Fixed issue which caused new players not be registered when using the app
