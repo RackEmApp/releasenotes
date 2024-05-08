@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 8th May 2024*
+ - Complete replacement of ElasticEmail to own templating system and emailing using Gmail SMTP.
+ - Bug fixes for Sets matches
+
 ***Platform** - 5th May 2024*
  - Fixed bug which stops competition page (groups) showing when no league table profile is defined
  - Fixed scoreboard showing complete match too early for Sets based matches
