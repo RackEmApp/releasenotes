@@ -2,6 +2,15 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 9th May 2024*
+ - Fixed bug with Player Stats not calculating right when the player has been transferred
+ - Fixed issue updating players details from the mobile app
+
+***App** - 9th May 2024 (1.0.21)*
+ - Made the Save Player toast message more descriptive when erroring
+ - Prevented captains changing player details when players have a user account
+ - Fixed issue in Matches list where clicking the away team name would take you to the home team profile
+
 ***Platform** - 8th May 2024*
  - Complete replacement of ElasticEmail to own templating system and emailing using Gmail SMTP.
  - Bug fixes for Sets matches
