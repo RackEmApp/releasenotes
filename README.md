@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 10th May 2024*
+ - Altered new Email service to not catch exceptions to allow Hangfire to do them and provide better logging and exception management capabilities.
+ - Fixed issue where transferring players pre-season would not detect the right "old" team and keep them present in that list
+   
 ***Platform** - 9th May 2024*
  - Fixed bug with Player Stats not calculating right when the player has been transferred
  - Fixed issue updating players details from the mobile app
