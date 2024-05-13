@@ -4,6 +4,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ---
 ***Platform** - 13th May 2024*
  - Made changes to stop progressing competitionss and divisions without a leage table profile beig assigned
+ - Added the ability to convert a League bye into a real team part way through the season
 
 ***Platform** - 10th May 2024*
  - Altered new Email service to not catch exceptions to allow Hangfire to do them and provide better logging and exception management capabilities.
