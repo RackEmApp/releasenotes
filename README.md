@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 13th May 2024*
+ - Made changes to stop progressing comps and divisions without a leage table profile beig assigned
+
 ***Platform** - 10th May 2024*
  - Altered new Email service to not catch exceptions to allow Hangfire to do them and provide better logging and exception management capabilities.
  - Fixed issue where transferring players pre-season would not detect the right "old" team and keep them present in that list
