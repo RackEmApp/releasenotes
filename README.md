@@ -8,6 +8,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added ability for articles to be hidden from home page
  - Fixed conert bye to team not creating a league table record
  - Fixed the lag not alernating between sets in sets matches
+ - Added new feature to email your competition entrants
+ - Minor UI improvements to live scores and scorecards
 
 ***Platform** - 13th May 2024*
  - Made changes to stop progressing competitions and divisions without a leage table profile beig assigned
