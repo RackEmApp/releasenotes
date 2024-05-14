@@ -2,8 +2,15 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 14th May 2024*
+ - Fixed several email templating issues
+ - Added ability to Archive competitions
+ - Added ability for articles to be hidden from home page
+ - Fixed conert bye to team not creating a league table record
+ - Fixed the lag not alernating between sets in sets matches
+
 ***Platform** - 13th May 2024*
- - Made changes to stop progressing competitionss and divisions without a leage table profile beig assigned
+ - Made changes to stop progressing competitions and divisions without a leage table profile beig assigned
  - Added the ability to convert a League bye into a real team part way through the season
 
 ***Platform** - 10th May 2024*
