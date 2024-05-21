@@ -3,6 +3,10 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 14th May 2024*
+ - Fixed issue with payment report not including additional player fee in payment calculations
+ - Fixed issue generating competition groups not displaying matches
+
+***Platform** - 14th May 2024*
  - Fixed several email templating issues
  - Added ability to Archive competitions
  - Added ability for articles to be hidden from home page
