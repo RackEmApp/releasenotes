@@ -2,7 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 14th May 2024*
+***Platform** - 22nd May 2024*
+ - Fixed issue with roll of honour not being populated for pre-determined knockouts
+ - Fixed issue with walkover finals not awarding roll of honour
+ - Fixed issue with news areticle email templates getting the link wrong
+
+***Platform** - 20th May 2024*
  - Fixed issue with payment report not including additional player fee in payment calculations
  - Fixed issue generating competition groups not displaying matches
 
