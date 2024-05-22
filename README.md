@@ -6,6 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue with roll of honour not being populated for pre-determined knockouts
  - Fixed issue with walkover finals not awarding roll of honour
  - Fixed issue with news areticle email templates getting the link wrong
+ - Fixed issue creating losers comp from groups
 
 ***Platform** - 20th May 2024*
  - Fixed issue with payment report not including additional player fee in payment calculations
