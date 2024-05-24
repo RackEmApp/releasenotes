@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 24th May 2024*
+ - Fixed bank details showing incorrectly on season basics page
+ - Fixed bug accessing old season in certain scenarios
+
 ***Platform** - 22nd May 2024*
  - Fixed issue with roll of honour not being populated for pre-determined knockouts
  - Fixed issue with walkover finals not awarding roll of honour
