@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 27th May 2024 (1.0.22)*
+ - Fixed issue where non-captain's could not see the away player in scorecards
+ - Set the Dispute details box to be required so you can no longer submit a dispute without explaining why
+
 ***Platform** - 24th May 2024*
  - Fixed bank details showing incorrectly on season basics page
  - Fixed bug accessing old season in certain scenarios
