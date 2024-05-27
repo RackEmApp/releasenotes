@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 27th May 2024*
+ - Fixed issue with player auto population for competition matches which manifests itself in the app when frame captions are null
+ - Set team names to be clickable links when viewing a group stage team competition
+
 ***App** - 27th May 2024 (1.0.22)*
  - Fixed issue where non-captain's could not see the away player in scorecards
  - Set the Dispute details box to be required so you can no longer submit a dispute without explaining why
