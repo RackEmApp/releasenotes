@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 29th May 2024*
+ - Fixed issue with team registration page not showing the right wordingwhen paying per player.
+ - Fixed issue removing lines from basket
+ - Fixed issue pressing New Player in the admin team creation in season wizard
+
 ***Platform** - 27th May 2024*
  - Fixed issue with player auto population for competition matches which manifests itself in the app when frame captions are null
  - Set team names to be clickable links when viewing a group stage team competition
