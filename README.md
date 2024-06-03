@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 3rd June 2024*
+ - Big update for Double Elimination competitions introducing templates to make managing a DE tournament easy
+ - Moved the TinyMCE WYSIWYG editor to locally hosted instead of cloud hosted to solve maximum page views error
+   
 ***Platform** - 29th May 2024*
  - Fixed issue with team registration page not showing the right wordingwhen paying per player.
  - Fixed issue removing lines from basket
