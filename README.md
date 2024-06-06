@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 6th June 2024*
+ - Added new handicap method "Stoodlarke Handicap Algorithm", detaisl in documentation
+ - Added handicaps to competition live scores page
+ - Fixed issue with team competition matches pre-season not committing frame data and throwing an error
+ - Fixed venue pages not opening due to null opening times list
+ - Fixed update of seasonteam throwing error when no captain or vice captain is defined
+
 ***Platform** - 5th June 2024*
  - Bug fix for the app throwing an error when your next match is away to an either/or match
    
