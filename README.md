@@ -7,6 +7,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Implemented additionals ecurity headers to achieve an A rating from securityheaders.com
  - Brought all javascript sources local to prevent agains man in the middle attacks
  - Implement content security policy
+ - Fixed bug creating deciding frame
 
 ***Platform** - 6th June 2024*
  - Added new handicap method "Stoodlarke Handicap Algorithm", detaisl in documentation
