@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 10th June 2024*
+ - Upgrade to .NET 8
+ - Implemented additionals ecurity headers to achieve an A rating from securityheaders.com
+ - Brought all javascript sources local to prevent agains man in the middle attacks
+ - Implement content security policy
+
 ***Platform** - 6th June 2024*
  - Added new handicap method "Stoodlarke Handicap Algorithm", detaisl in documentation
  - Added handicaps to competition live scores page
