@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 13th June 2024*
+ - Additional endpoint changes to support upcoming functionality (Scoreboard) in mobile app
+ - Added the custom field results for team registrations into the dashboard approval list
+
 ***Platform** - 10th June 2024*
  - Upgrade to .NET 8
  - Implemented additionals ecurity headers to achieve an A rating from securityheaders.com
