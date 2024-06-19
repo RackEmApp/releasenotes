@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 19th June 2024*
+ - Added ability for leagues to set their own Privacy Policy and Terms and Conditions.
+ - Added ability for a season to have some terms set to provide information to captain's registering online
+ - Added shortcut buttons to the admin scorecard editor to make it easier to forfei matches, saving a few hundred clicks
+ - Fixed the API results endpoint to display the right player information
+ - Amendments to the Mobile App API to support the upcoming scoreboard feature (work in progress)
+
 ***Platform** - 13th June 2024*
  - Additional endpoint changes to support upcoming functionality (Scoreboard) in mobile app
  - Added the custom field results for team registrations into the dashboard approval list
