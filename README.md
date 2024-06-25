@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 25th June 2024*
+ - Invoices can now be paid by card bya nyone not just the captain
+ - Payment report not including stripe payments
+ - Payment report not showing right current price when registration type is "Per player"
+ - Changes to further support the Scoreboard migration to the mobile app (work in progress)
+ - Added endpoints to create friendlies ready for the feature to go live in the mobile app(work in progress)
+
 ***Platform** - 19th June 2024*
  - Added ability for leagues to set their own Privacy Policy and Terms and Conditions.
  - Added ability for a season to have some terms set to provide information to captain's registering online
