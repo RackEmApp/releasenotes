@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 2nd July 2024*
+ - Using "Big screen mode" on a tablet allows tournament directors to quickly schedule matches by tapping the time, or editing the score by tapping that all from a single kanban style view
+ - Added sponsors rotation to Big Screen mode for competitions
+ - Added better feedback for failed discount codes in table bookings to help uses know why they may not work
+ - Further scoreboard enhancements ready for the app update (work in progress)
+
 ***Platform** - 25th June 2024*
  - Invoices can now be paid by card by anyone not just the captain
  - Payment report not including stripe payments
