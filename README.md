@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 4th July 2024 (1.1.2)*
+ - Captains can now create Friendly Matches so they can live score their non-league/competition matches
+ - Scoreboard functionality has been built as Native, including Table mode for venues, and will keep the screen on as standard without needing to fiddle with device settings
+ - League tables migrated to run in the mobile app instead of a browser link
+ - Player rankings migrated to run in the mobile app instead of a browser link
+ - App now available in the Amazon App store for easy download to Fire tablets
+ 
 ***Platform** - 3rd July 2024*
  - Singles averages fully refactored into its own services to make it more performant (<10% of original time taken)
  - Added endpoints for League Tables and Rankings to be supported natively in the mobile app
