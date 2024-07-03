@@ -12,6 +12,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ***Platform** - 3rd July 2024*
  - Singles averages fully refactored into its own services to make it more performant (<10% of original time taken)
  - Added endpoints for League Tables and Rankings to be supported natively in the mobile app
+ - Fixed issed editing competion match entries if there are two matches with the same player/entry
 
 ***Platform** - 2nd July 2024*
  - Using "Big screen mode" on a tablet allows tournament directors to quickly schedule matches by tapping the time, or editing the score by tapping that all from a single kanban style view
