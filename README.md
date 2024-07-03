@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 3rd July 2024*
+ - Singles averages fully refactored into its own services to make it more performant (<10% of original time taken)
+ - Added endpoints for League Tables and Rankings to be supported natively in the mobile app
+
 ***Platform** - 2nd July 2024*
  - Using "Big screen mode" on a tablet allows tournament directors to quickly schedule matches by tapping the time, or editing the score by tapping that all from a single kanban style view
  - Added sponsors rotation to Big Screen mode for competitions
