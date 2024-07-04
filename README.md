@@ -4,9 +4,10 @@ This page displays the release note information for the RackEmApp Platform and t
 ---
 ***Platform** - 5th July 2024*
  - Fix to rankings algorithm that was miscalculating the number of appearances
- - Fixed bug that impacts new live scroes screen for new app
+ - Fixed bug that impacts new live scores screen for new app
  - Rewritten ELO Algorithm
- - Migrated all league post result processing to a hangire job
+ - Migrated all league post result processing to a queued background job
+ - 
 ***App** - 4th July 2024 (1.1.2)*
  - Captains can now create Friendly Matches so they can live score their non-league/competition matches
  - Scoreboard functionality has been built as Native, including Table mode for venues, and will keep the screen on as standard without needing to fiddle with device settings
