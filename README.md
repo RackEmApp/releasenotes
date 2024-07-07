@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 7th July 2024*
+ - Fixed issue completing competition matches
+ - Fixed issue which meant when updating yoru details in the app it wasn't updating the user email address
+ - Fixed an issue which there an error deleting a user relating to the delete method not loading the userleagues
+ - Altered the emailing of the draw method to default to the User email, if the player is linked to a user
+
 ***Platform** - 5th July 2024*
  - Fix to rankings algorithm that was miscalculating the number of appearances
  - Fixed bug that impacts new live scores screen for new app
