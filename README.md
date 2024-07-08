@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 8th July 2024 (1.1.6)*
+ - Fixed an issue where if away captain's selected a forfeit player, it would not allow the section to be locked in.
+ - Added support for all android versions from 5 and above
+ - Fixed an issue loading competition matches when the table had been booked through the table booking system on a shared venue
+ - Added support for league games to be settle by a draw decider
+
 ***Platform** - 8th July 2024*
  - Added support for league matches to be decided by a draw decider
  - Fixed issue where booking emails were not including the date
