@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 8th July 2024*
+ - Added support for league matches to be decided by a draw decider
+ - Fixed issue where booking emails were not including the date
+   
 ***Platform** - 7th July 2024*
  - Fixed issue completing competition matches
  - Fixed issue which meant when updating yoru details in the app it wasn't updating the user email address
