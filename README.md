@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 10th July 2024*
+ - Finalized the licensing additions
+ - Added Healthcheck to the dashboard
+
 ***App** - 8th July 2024 (1.1.6)*
  - Fixed an issue where if away captain's selected a forfeit player, it would not allow the section to be locked in.
  - Added support for all android versions from 5 and above
