@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 12th July 2024*
+ - Dedicated Singles Leagues functionality
+ - Fixes to the Healthcheck in the dashboard
+
 ***Platform** - 10th July 2024*
  - Finalized the licensing additions
  - Added Healthcheck to the dashboard
