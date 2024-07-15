@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 15th July 2024*
+ - Fixes to yesterdays update
+ - Amendments to support positive points "penalties"
+   
 ***Platform** - 14th July 2024*
  - Added new "All Divisions" option for league tables
  - Optimized Fixtures pages for better performance
