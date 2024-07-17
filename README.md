@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 17th July 2024*
+ - Fixed adding a perpetual roll of honour record
+ - Added Login indicator to bookign screen
+ - Added league admin ability to use match codes as bookign discounts for approved comps
+ - Changes to support secondary clock time and timed pause for challenge matches for BTF
+
 ***Platform** - 15th July 2024*
  - Fixes to yesterdays update
  - Amendments to support positive points "penalties"
