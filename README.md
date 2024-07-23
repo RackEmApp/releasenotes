@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 23rd July 2024*
+ - Fix to creation of singles leagues and competitions
+   
 ***Platform** - 18th July 2024*
  - Updates to bookings to access existing basket
  - Fix to competition team scorecard editor not resetting forfeit status of a frame
