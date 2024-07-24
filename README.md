@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 24th July 2024*
+ - Added recording of the person and date/time of team registration approvals
+ - Fixed validation bug on ReRegistration price for a season allowing it to be saved as
+ - Performance improvements on Doubles averages pages
+
 ***Platform** - 23rd July 2024*
  - Fix to creation of singles leagues and competitions
    
