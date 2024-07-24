@@ -2,6 +2,18 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 8th July 2024 (1.1.10)*
+ - Fixed numerous issues with the new Live Scores screen
+ - Fixed an issue with deselecting players as the away team when you are using the "once per section" setting
+ - Fixed an issue preventing the selection of a player so captain;s unable to enter people into a comp
+
+***Platform** - 25th July 2024*
+ - Fixed issue with dashboard healthcheck displaying overdue firxtures for deleted teams
+ - Fixed issue with Perpetuals not allowing you to switch to Individuals when they are set as Team
+ - Minor update to License Service
+ - Added ability to alter the date played for any given match
+ - Prep work for displaying results by date played rather than scheduled date - including a data script to fix old erroneous data
+
 ***Platform** - 24th July 2024*
  - Added recording of the person and date/time of team registration approvals
  - Fixed validation bug on ReRegistration price for a season allowing it to be saved as
