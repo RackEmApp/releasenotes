@@ -14,6 +14,9 @@ This page displays the release note information for the RackEmApp Platform and t
  - Minor update to License Service
  - Added ability to alter the date played for any given match
  - Prep work for displaying results by date played rather than scheduled date - including a data script to fix old erroneous data
+ - Improved performance of loading Venue page
+ - Bug fixes relating to accessing venue pages for shared venues
+ - Added ability to deactivate a venue to hide from your venues list page
 
 ***Platform** - 24th July 2024*
  - Added recording of the person and date/time of team registration approvals
