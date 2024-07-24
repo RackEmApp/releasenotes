@@ -2,10 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - 8th July 2024 (1.1.10)*
+***App** - 25th July 2024 (1.1.10)*
  - Fixed numerous issues with the new Live Scores screen
  - Fixed an issue with deselecting players as the away team when you are using the "once per section" setting
  - Fixed an issue preventing the selection of a player so captain;s unable to enter people into a comp
+ - Results pages will now show matches in order of date played, not necessarily the scheduled date for the match. This was a particular problem when cup matches had "played by" deadlines. 
 
 ***Platform** - 25th July 2024*
  - Fixed issue with dashboard healthcheck displaying overdue firxtures for deleted teams
