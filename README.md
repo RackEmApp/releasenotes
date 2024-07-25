@@ -6,7 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed numerous issues with the new Live Scores screen
  - Fixed an issue with deselecting players as the away team when you are using the "once per section" setting
  - Fixed an issue preventing the selection of a player so captain;s unable to enter people into a comp
- - Results pages will now show matches in order of date played, not necessarily the scheduled date for the match. This was a particular problem when cup matches had "played by" deadlines. 
+
 
 ***Platform** - 25th July 2024*
  - Fixed issue with dashboard healthcheck displaying overdue firxtures for deleted teams
@@ -17,6 +17,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Improved performance of loading Venue page
  - Bug fixes relating to accessing venue pages for shared venues
  - Added ability to deactivate a venue to hide from your venues list page
+ - Results pages will now show matches in order of date played, not necessarily the scheduled date for the match. This was a particular problem when cup matches had "played by" deadlines. 
 
 ***Platform** - 24th July 2024*
  - Added recording of the person and date/time of team registration approvals
