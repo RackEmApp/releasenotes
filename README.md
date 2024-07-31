@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 31st July 2024*
+ - Fixed issue saving a booking using multiple resources
+ - Fixed issue where booking note not being constructed properly
+ - Fixed issue rescheduling competition matches
+
 ***App** - 25th July 2024 (1.1.10)*
  - Fixed numerous issues with the new Live Scores screen
  - Fixed an issue with deselecting players as the away team when you are using the "once per section" setting
