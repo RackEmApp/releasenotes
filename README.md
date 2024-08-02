@@ -3,7 +3,7 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 2nd August 2024*
- - Added suport for app to auto-login to venue booking page
+ - Added support for app to auto-login to venue booking page
  - Added ability for players to optionally include their name and display it against the booking
  - Added quick checkout for when there is no money to be paid
 
