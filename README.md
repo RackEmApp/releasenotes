@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 2nd August 2024*
+ - Added suport for app to auto-login to venue booking page
+ - Added ability for players to optionally include their name and display it against the booking
+ - Added quick checkout for when there is no money to be paid
+
 ***Platform** - 31st July 2024*
  - Fixed issue saving a booking using multiple resources
  - Fixed issue where booking note not being constructed properly
