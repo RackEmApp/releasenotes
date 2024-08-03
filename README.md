@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 4th August 2024*
+ - Fixed issue displaying cup matches on home page when hoe  team is a Bye
+ - Fixed issue with Fixtures pages not showing Cup matches due to the inccorrect filter on the query
+ - Fixed issue with referee mode erroring if you set a frame winner before a lag winner
+ - Fixed issue that remove players from competition entries when marking them as paid
+ - Fixed issue not displaying the individual competition placeholder when that is the next fixture date
+ - Removed auto refresh on error page
+
 ***Platform** - 2nd August 2024*
  - Added support for app to auto-login to venue booking page
  - Added ability for players to optionally include their name and display it against the booking
