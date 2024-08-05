@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 5th August 2024*
+ - Added disclaimer for Stripe entry fees that may violate their gambling restrictions
+ - Fixed bug where number of entries in the competitions list was including draft entries
+   
 ***Platform** - 4th August 2024*
  - Fixed issue displaying cup matches on home page when hoe  team is a Bye
  - Fixed issue with Fixtures pages not showing Cup matches due to the inccorrect filter on the query
