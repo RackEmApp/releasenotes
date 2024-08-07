@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 7th August 2024*
+ - Performance improvement adding team to division in season wizard
+ - Fixed wrong message title when adding a bye in Season Wizard
+ - Adding ranking number to doubles ranking pages
+ - Fixed issues with captain detials not loading on team registration page
+ - Fixed issues with All Divisions fixture page not showing comp matches
+
 ***Platform** - 5th August 2024*
  - Added disclaimer for Stripe entry fees that may violate their gambling restrictions
  - Fixed bug where number of entries in the competitions list was including draft entries
