@@ -5,6 +5,8 @@ This page displays the release note information for the RackEmApp Platform and t
 ***Platform** - 8th August 2024*
  - Fixed issue transferring players when in pre-season
  - Added new "Dish Table" page
+ - Fixed issue with outstanding byes showing on fixture page
+ - Fixed issue with fixture pages not showing assigned venues
 
 ***Platform** - 7th August 2024*
  - Performance improvement adding team to division in season wizard
