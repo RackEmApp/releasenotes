@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 8th August 2024*
+ - Fixed issue transferring players when in pre-season
+ - Added new "Dish Table" page
+
 ***Platform** - 7th August 2024*
  - Performance improvement adding team to division in season wizard
  - Fixed wrong message title when adding a bye in Season Wizard
