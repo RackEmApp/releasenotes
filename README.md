@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 9th August 2024*
+ - Fixed issue accessing fixtures and results admin when no active seasons
+ - Fixed issue accessing fixtures page following a fix yesterday, nullable object on assigned table
+   
 ***Platform** - 8th August 2024*
  - Fixed issue transferring players when in pre-season
  - Added new "Dish Table" page
