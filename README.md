@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 16th August 2024*
+ - Fixed issue getting matches for mobile from the API, causing an endless spinner for some teams
+ - Added new table tied method for Head to head, Frames, Wins
+ - Added new "Dish Table"
+ - Added ability to "include cup" competitions in rankings pages
+ - Fixed issue with group stage matches not starting properly
+
 ***Platform** - 9th August 2024*
  - Fixed issue accessing fixtures and results admin when no active seasons
  - Fixed issue accessing fixtures page following a fix yesterday, nullable object on assigned table
