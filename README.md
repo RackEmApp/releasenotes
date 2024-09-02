@@ -6,6 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue committing team comp results with non-selected players
  - Fixed issue where competition management would show the wrong winner when a match is committed without a valid winner (IE in a draw scenario)
  - Fixed issue where paretnt eam list in teams showing unapproved teams
+ - Fixed issue adding legacy winner of team competitions not awarding trophies
 
 ***Platform** - 16th August 2024*
  - Fixed issue getting matches for mobile from the API, causing an endless spinner for some teams
