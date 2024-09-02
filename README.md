@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 3rd September 2024*
+ - Fixed issue committing team comp results with non-selected players
+ - Fixed issue where competition management would show the wrong winner when a match is committed without a valid winner (IE in a draw scenario)
+
 ***Platform** - 16th August 2024*
  - Fixed issue getting matches for mobile from the API, causing an endless spinner for some teams
  - Added new table tied method for Head to head, Frames, Wins
