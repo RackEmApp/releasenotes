@@ -8,6 +8,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue where paretnt eam list in teams showing unapproved teams
  - Fixed issue adding legacy winner of team competitions not awarding trophies
  - Fixed issues where incorrect parent team gets assigned when doing an online team registration
+ - Added R number to player editor, and made it a link to the player profile so you can more easily identify player data
+ - Fixed an issue where the "this player is not editable" warning was not appearing correctly in the player editor
 
 ***Platform** - 16th August 2024*
  - Fixed issue getting matches for mobile from the API, causing an endless spinner for some teams
