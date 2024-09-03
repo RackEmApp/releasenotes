@@ -4,6 +4,8 @@ This page displays the release note information for the RackEmApp Platform and t
 ---
 ***Platform** - 4th September 2024*
  - Fixed issue where players could be registered twice for new teams
+ - Fixed issue with license service not working properly
+ - Added venue seletion to singles leagues to allow for table scheduling
 
 ***Platform** - 3rd September 2024*
  - Fixed issue committing team comp results with non-selected players
