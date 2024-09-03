@@ -10,6 +10,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issues where incorrect parent team gets assigned when doing an online team registration
  - Added R number to player editor, and made it a link to the player profile so you can more easily identify player data
  - Fixed an issue where the "this player is not editable" warning was not appearing correctly in the player editor
+ - Fixed issue creating result in app for individual comp matches using a match format (eg 3 man)
 
 ***Platform** - 16th August 2024*
  - Fixed issue getting matches for mobile from the API, causing an endless spinner for some teams
