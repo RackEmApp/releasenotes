@@ -2,7 +2,7 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 3rd September 2024*
+***Platform** - 4th September 2024*
  - Fixed issue where players could be registered twice for new teams
 
 ***Platform** - 3rd September 2024*
