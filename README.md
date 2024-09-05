@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 6th September 2024*
+ - Added ability for challenge matches to be completed/archived
+ - Added admin page for Friendlies to have scores edited and completed, as well as deleted
+ - Added page to website to display list of challenge matches and their results
+ - Added setting to match format to allow a dish to add an extra frame to the frame score
+
 ***Platform** - 5th September 2024*
  - Added ability for Top Gun to be used for Rankings method
 
