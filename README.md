@@ -7,6 +7,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added admin page for Friendlies to have scores edited and completed, as well as deleted
  - Added page to website to display list of challenge matches and their results
  - Added setting to match format to allow a dish to add an extra frame to the frame score
+ - Fixed issue accessing player profile after they've played in a friendly
 
 ***Platform** - 5th September 2024*
  - Added ability for Top Gun to be used for Rankings method
