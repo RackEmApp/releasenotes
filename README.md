@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 6th September 2024 (1.3.0)*
+ - iOS 18 Support
+ - Fixes to league table when draw decider override in use
+
 ***Platform** - 6th September 2024*
  - Added ability for challenge matches to be completed/archived
  - Added admin page for Friendlies to have scores edited and completed, as well as deleted
@@ -10,6 +14,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue accessing player profile after they've played in a friendly
  - Fixed issue with Draw Decider Bonus Points not being awarded post match
  - Fixed formatting issue with league table when using draw decider bonus points
+ - Added draw decider scire to league scores in all views
+ - Fixes to league table when draw decider override in use
 
 ***Platform** - 5th September 2024*
  - Added ability for Top Gun to be used for Rankings method
