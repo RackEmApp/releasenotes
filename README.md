@@ -8,6 +8,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added page to website to display list of challenge matches and their results
  - Added setting to match format to allow a dish to add an extra frame to the frame score
  - Fixed issue accessing player profile after they've played in a friendly
+ - Fixed issue with Draw Decider Bonus Points not being awarded post match
+ - Fixed formatting issue with league table when using draw decider bonus points
 
 ***Platform** - 5th September 2024*
  - Added ability for Top Gun to be used for Rankings method
