@@ -2,7 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - 6th September 2024 (1.3.0)*
+***Platform** - 6th September 2024*
+ - Fixed webhook response for subscriptions to accept the payload rather than 400 it to prevent false failures
+ - Fixed issue preventing you being able to set the season for a comp to "none" after it has been set to a season
+ - Amended the table clash flagging to handle secondary calendars
+ 
+ ***App** - 6th September 2024 (1.3.0)*
  - iOS 18 Support
  - Fixes to league table when draw decider override in use
 
