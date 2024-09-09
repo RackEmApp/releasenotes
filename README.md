@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 10th September 2024*
+ - Fixed issue with DE Templates not prompting for losers race to in round 1
+ - Fixed issue with Group stage matches not appearing on fixtures pages
+ - Added "Active" flag for sponsors and changed it so it always shows acive sponsors at the bottom of the website pages
+ - Fixed issue saving scheduled dates in competition matches
+
 ***Platform** - 6th September 2024*
  - Fixed webhook response for subscriptions to accept the payload rather than 400 it to prevent false failures
  - Fixed issue preventing you being able to set the season for a comp to "none" after it has been set to a season
