@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 11th September 2024*
+ - Fixed issues with accessing bookings from app and auto applying promo code
+ - Improved error handling of change password screen
+   
 ***Platform** - 10th September 2024*
  - Fixed issue with DE Templates not prompting for losers race to in round 1
  - Fixed issue with Group stage matches not appearing on fixtures pages
