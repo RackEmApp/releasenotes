@@ -9,6 +9,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ***Platform** - 11th September 2024*
  - Fixed issues with accessing bookings from app and auto applying promo code
  - Improved error handling of change password screen
+ - Made the default schedule date for the referee modal to be the round date rather than "now"
    
 ***Platform** - 10th September 2024*
  - Fixed issue with DE Templates not prompting for losers race to in round 1
