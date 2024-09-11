@@ -2,7 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
- ***App** - 11th September 2024 (1.3.0)*
+***Platform** - 12th September 2024*
+ - Fixed issue with live scores page not auto updating
+ - Fixed issue accessing scorecard view on website when no sponsors are present
+ - Fixed issue with disputed matches not showing properly, anywhere
+   
+ ***App** - 11th September 2024 (1.3.1)*
   - League table display fix
   - Added ability to book tables from competition matches
 
