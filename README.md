@@ -3,6 +3,9 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 12th September 2024*
+ - Revamped predetermined knockouts for improved reliability
+   
+***Platform** - 12th September 2024*
  - Fixed issue with live scores page not auto updating
  - Fixed issue accessing scorecard view on website when no sponsors are present
  - Fixed issue with disputed matches not showing properly, anywhere
