@@ -7,6 +7,9 @@ This page displays the release note information for the RackEmApp Platform and t
  - Revamped mini knockouts for improved reliability
  - Added new Reserve List functionality for competitions
  - Fixed issue completing season not updating roll of honour/trophies correctly
+ - Fixtures pages now show Friendlies
+ - Fixed issue saving players from the app when deadline has passed
+ - Fixed issue calculating TopGun
    
 ***Platform** - 12th September 2024*
  - Fixed issue with live scores page not auto updating
