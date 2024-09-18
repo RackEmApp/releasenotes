@@ -10,6 +10,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixtures pages now show Friendlies
  - Fixed issue saving players from the app when deadline has passed
  - Fixed issue calculating TopGun
+ - Improved efficiency of team page by > 50%
    
 ***Platform** - 12th September 2024*
  - Fixed issue with live scores page not auto updating
