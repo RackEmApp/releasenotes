@@ -2,9 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 18th September 2024*
+***Platform** - 19th September 2024*
  - Revamped predetermined knockouts for improved reliability
  - Revamped mini knockouts for improved reliability
+ - Added new Reserve List functionality for competitions
+ - Fixed issue completing season not updating roll of honour/trophies correctly
    
 ***Platform** - 12th September 2024*
  - Fixed issue with live scores page not auto updating
