@@ -2,6 +2,21 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 26th September 2024*
+ - Fix to endpoint impacting scoreboard access on mobile app when not logged in and using table mode
+ - Fixed issue where it was generating the wrong OG Imagine for restls/all page links
+ - Fixed issue where calendar generations topped after 1 year
+ - Added Summary tiles to competition entry screen so you can have a goo overview of entered vs paid vs reserves
+ - Fixed venue fixtures page not properly displaying team competition group matches
+ - Fixed issues relating to Top Gun when selecting "First Two Frames"
+ - Added handicaps to all views on website when being used for team competitions
+ - Fixed issue where dashboard checklist not acknowledging that league table profiles have been viewed
+ - More fixes to Roll of Honour to only display perpetual competitions
+ - Fixed single eliminiation templates to correctly generate the bracket in order
+ - Fixed entry counts on Competitions screen to exclude dependent match entries and byes
+ - Fixed issue when copying or deleting competition not reclauclating entry count for competitions
+ - Fixed error saving custom fields
+
 ***Platform** - 19th September 2024*
  - Revamped predetermined knockouts for improved reliability
  - Revamped mini knockouts for improved reliability
