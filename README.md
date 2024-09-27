@@ -6,6 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added ability for venue's to have a logo uploaded
  - Added ability for venues to hide the primary sponsor
  - Fix to teams page showing duplictae results relating to finals days
+ - Fixed issue resechuling group games
 
 ***Platform** - 26th September 2024*
  - Fix to endpoint impacting scoreboard access on mobile app when not logged in and using table mode
