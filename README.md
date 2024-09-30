@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 1st October 2024*
+ - Moved the "Randomize on lockin" feature server side.
+
 ***Platform** - 30th September 2024*
  - Fixed "Mark paid" button for competition entries throwing an error page
  - Stopped "Unpaid" appearing on competition view unless a payment method was selected
