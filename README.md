@@ -2,10 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - 1st October 2024*
+***Platform** - 3rd October 2024*
  - Fixed issue in setting up Facebook integration
  - Added new "League Manager" role
  - Stopped the New Season button being pressed if there is already a draft season
+ - Fixed issue where complete competition would not add to the roll of honour if final was settled by decider
 
 ***Platform** - 1st October 2024*
  - Moved the "Randomize on lockin" feature server side.
