@@ -3,6 +3,12 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 3rd October 2024*
+ - Fix to Singles Leagues option not appearing after changes to support the League manager role
+ - Fix to App API when accessing match format for team match on scoreboard
+ - Fix to checks for promotion/relegation to support sections as wins setting
+ - Fix to winning draws and losing draws not generating the totals
+   
+***Platform** - 3rd October 2024*
  - Fixed issue in setting up Facebook integration
  - Added new "League Manager" role
  - Stopped the New Season button being pressed if there is already a draft season
