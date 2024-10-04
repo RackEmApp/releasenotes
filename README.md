@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+ ***App** - TBD (1.4.1)*
+  - Altered the carousel for teams on the mains creen when you have multiple so you can use a button instead of a swipe if you choose to
+  - Fix to WD and LD columns
+  - Fix to support team matches on Scoreboard (get match format error)
+
 ***Platform** - 3rd October 2024*
  - Fix to Singles Leagues option not appearing after changes to support the League manager role
  - Fix to App API when accessing match format for team match on scoreboard
