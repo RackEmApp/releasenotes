@@ -7,6 +7,12 @@ This page displays the release note information for the RackEmApp Platform and t
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
 
+***Platform** - 7th October 2024*
+- Fixed issue with 3 man comps throwing errors when 4th player not selected
+- Fixed issue with players page not shwoing the datatable controls
+- Fixed issue with DE templates not inverting the losers quali round
+- Fixed issue with committing matches for DE and Predetermined Knockouts causing an issue with downstream matches unexpectedly wghen commited at 0-0
+
 ***Platform** - 3rd October 2024*
  - Fix to Singles Leagues option not appearing after changes to support the League manager role
  - Fix to App API when accessing match format for team match on scoreboard
