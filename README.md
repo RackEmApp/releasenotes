@@ -7,6 +7,18 @@ This page displays the release note information for the RackEmApp Platform and t
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
 
+***Platform** - 8th October 2024*
+ - Added Week Commencing as an On or By option for competition rounds
+ - Fixed single day event checkbox not making the date field disappear
+ - Player search performance
+ - Altered admin team registration player/captain searching
+ - Fixed issue with league terms and privacy policy linking to the opposite pages
+ - Fixed competition matches appearing on team page before the round is started
+ - Added ability to create a perpetual
+ - Fixed season wizard link to match formats going to wrong place
+ - Fixed triples drawsheet error
+ - Added link to new season setup video to various places
+   
 ***Platform** - 7th October 2024*
 - Fixed issue with 3 man comps throwing errors when 4th player not selected
 - Fixed issue with players page not shwoing the datatable controls
