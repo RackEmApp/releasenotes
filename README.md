@@ -7,7 +7,7 @@ This page displays the release note information for the RackEmApp Platform and t
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
 
-***Platform** - 8th October 2024*
+***Platform** - 9th October 2024*
  - Added Week Commencing as an On or By option for competition rounds
  - Fixed single day event checkbox not making the date field disappear
  - Player search performance
