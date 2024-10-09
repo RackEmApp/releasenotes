@@ -2,12 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
- ***App** - TBD (1.4.1)*
+ ***App** - 10th October 2024 (1.4.1)*
   - Altered the carousel for teams on the mains creen when you have multiple so you can use a button instead of a swipe if you choose to
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
   - Add W/C support for comp matches
-  - TODO: Change sort order for comp matches to be in date order
+  - Change sort order for comp matches to be in date order
 
 ***Platform** - 9th October 2024*
  - Added Week Commencing as an On or By option for competition rounds
