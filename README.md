@@ -21,6 +21,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed triples drawsheet error
  - Added link to new season setup video to various places
  - Improved search routine to favour own league players first
+ - Added fix button for old match formats without frame numbers
    
 ***Platform** - 7th October 2024*
 - Fixed issue with 3 man comps throwing errors when 4th player not selected
