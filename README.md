@@ -6,7 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
   - Altered the carousel for teams on the mains creen when you have multiple so you can use a button instead of a swipe if you choose to
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
-  - TODO: Add W/C support for comp matches
+  - Add W/C support for comp matches
   - TODO: Change sort order for comp matches to be in date order
 
 ***Platform** - 9th October 2024*
