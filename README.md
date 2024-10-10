@@ -9,6 +9,10 @@ This page displays the release note information for the RackEmApp Platform and t
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
 
+***Platform** - 10th October 2024*
+ - Fixed error updating competition entry
+ - Fixed issue viewing scorecard for team competition matches from the results/all page
+
 ***Platform** - 9th October 2024*
  - Added Week Commencing as an On or By option for competition rounds
  - Fixed single day event checkbox not making the date field disappear
