@@ -9,6 +9,13 @@ This page displays the release note information for the RackEmApp Platform and t
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
 
+***Platform** - 15th October 2024*
+ - Fixed issue with predetermined knockouts not working properly when started in round 2 or beyond
+ - Added support form comps/singles leagues to play each other 3 or 4 times
+ - Added support for having a competition use match format when players per entry  is 2 or more (previously 3)
+ - Fixed issue saving perpetuals
+ - Fixed issue preventing shared venues appearing in booking options for my competition matches in mobile api
+
 ***Platform** - 11th October 2024*
  - Fixed matchlist sorting for group competitions
  - Fixed issue updating joker status
