@@ -16,6 +16,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue saving perpetuals
  - Fixed issue preventing shared venues appearing in booking options for my competition matches in mobile api
  - Added POC for table light management
+ - Added Split Player tool for platform admins
 
 ***Platform** - 11th October 2024*
  - Fixed matchlist sorting for group competitions
