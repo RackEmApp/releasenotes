@@ -9,6 +9,9 @@ This page displays the release note information for the RackEmApp Platform and t
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
 
+***Platform** - 16th October 2024*
+  - Added support for 2 leg team knockout matches. Not supported for predetermined knockouts
+
 ***Platform** - 15th October 2024*
  - Fixed issue with predetermined knockouts not working properly when started in round 2 or beyond
  - Added support form comps/singles leagues to play each other 3 or 4 times
