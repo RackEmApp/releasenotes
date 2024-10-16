@@ -2,12 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
- ***App** - 10th October 2024 (1.4.1)*
+ ***App** - 17th October 2024 (1.4.2)*
   - Altered the carousel for teams on the mains creen when you have multiple so you can use a button instead of a swipe if you choose to
   - Fix to WD and LD columns
   - Fix to support team matches on Scoreboard (get match format error)
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
+  - Made the player selection more tolerant to a sensitive setting
 
 ***Platform** - 16th October 2024*
   - Added support for 2 leg team knockout matches. Not supported for predetermined knockouts
