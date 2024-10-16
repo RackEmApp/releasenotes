@@ -10,7 +10,7 @@ This page displays the release note information for the RackEmApp Platform and t
   - Change sort order for comp matches to be in date order
   - Made the player selection more tolerant to a sensitive setting
   - 
-***Platform** - 16th October 2024*
+***Platform** - 17th October 2024*
   - Fixed issue which meant "Home team breaks first" and "Away team breaks first" were not working properly and stopping frames getting approved
 
 ***Platform** - 16th October 2024*
