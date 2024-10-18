@@ -9,7 +9,11 @@ This page displays the release note information for the RackEmApp Platform and t
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
   - Made the player selection more tolerant to a sensitive setting
-    
+
+***Platform** - 18th October 2024*
+ - Altered sort order for "my competition matches" in mobile app
+ - Fixed issue saving competition scorecards
+
 ***Platform** - 17th October 2024*
   - Fixed issue which meant "Home team breaks first" and "Away team breaks first" were not working properly and stopping frames getting approved
 
