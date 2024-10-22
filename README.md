@@ -6,6 +6,10 @@ This page displays the release note information for the RackEmApp Platform and t
   - Major update of .NET, XCode and NuGet versions
   - Forced to replace datetime icker controls which turned out to be incompatible, causing competition matches page to crash
 
+***Platform** - 23rd October 2024*
+ - Fixed issue with logging out when a custom domain is in use
+ - Fixed issue with player contacts not exporting email address for players with user accounts
+
 ***Platform** - 22nd October 2024*
  - Fixed issue saving match formats
  - Fixed issue deleting calendar dates
