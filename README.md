@@ -2,6 +2,21 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+ ***App** - 22nd October 2024 (1.5.1)*
+  - Major update of .NET, XCode and NuGet versions
+  - Forced to replace datetime icker controls which turned out to be incompatible, causing competition matches page to crash
+
+***Platform** - 22nd October 2024*
+ - Fixed issue saving match formats
+ - Fixed issue deleting calendar dates
+ - Fixed issue setting up Facebook integration
+ - Fixed issues with group matches date selections incorrectly failing validation
+ - Stopped "Leg" heading appearing in competitions for knockout matches when its not a 2 leg matches
+
+***Platform** - 18th October 2024*
+ - Altered sort order for "my competition matches" in mobile app
+ - Fixed issue saving competition scorecards
+
  ***App** - 17th October 2024 (1.4.2)*
   - Altered the carousel for teams on the mains creen when you have multiple so you can use a button instead of a swipe if you choose to
   - Fix to WD and LD columns
@@ -9,10 +24,6 @@ This page displays the release note information for the RackEmApp Platform and t
   - Add W/C support for comp matches
   - Change sort order for comp matches to be in date order
   - Made the player selection more tolerant to a sensitive setting
-
-***Platform** - 18th October 2024*
- - Altered sort order for "my competition matches" in mobile app
- - Fixed issue saving competition scorecards
 
 ***Platform** - 17th October 2024*
   - Fixed issue which meant "Home team breaks first" and "Away team breaks first" were not working properly and stopping frames getting approved
