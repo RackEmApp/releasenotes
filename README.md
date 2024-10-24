@@ -2,16 +2,16 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
- ***App** - 22nd October 2024 (1.5.1)*
-  - Major update of .NET, XCode and NuGet versions
-  - Forced to replace datetime icker controls which turned out to be incompatible, causing competition matches page to crash
-
 ***Platform** - 24th October 2024*
  - Added Table Light management
 
 ***Platform** - 23rd October 2024*
  - Fixed issue with logging out when a custom domain is in use
  - Fixed issue with player contacts not exporting email address for players with user accounts
+
+***App** - 22nd October 2024 (1.5.1)*
+  - Major update of .NET, XCode and NuGet versions
+  - Forced to replace datetime icker controls which turned out to be incompatible, causing competition matches page to crash
 
 ***Platform** - 22nd October 2024*
  - Fixed issue saving match formats
