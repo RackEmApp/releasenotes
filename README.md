@@ -2,6 +2,15 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 26th October 2024 (1.5.2)*
+  - Rolled back change which enforced hoem captains to set the break otherwise the away captains could not approve
+  - Added support to make the above behaviour optional in the match format
+
+***Platform** - 26th October 2024*
+ - Added support for "Home team breaks all frames" and "Away team breaks all frames"
+ - Added match format setting to enforce the entry of a breaker (defalt is to have it not mandatory)
+ - Fixed it so adding a competition entry whilst the comp is in play sets the round the be the latest round (For last man standing)
+   
 ***Platform** - 24th October 2024*
  - Added Table Light management
 
