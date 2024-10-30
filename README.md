@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 30th October 2024*
+ - Fixed issue where predetermined knockouts would use the old method if doing a manual draw
+ - Fixed issue working out the winner for kockout matches using six red shootout as decider
+ - Fixed issues preventing the deletion of competitions
+   
 ***App** - 26th October 2024 (1.5.2)*
   - Rolled back change which enforced hoem captains to set the break otherwise the away captains could not approve
   - Added support to make the above behaviour optional in the match format
