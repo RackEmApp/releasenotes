@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 5th November 2024*
+ - Modified the 147 Sports arena screens
+ - Fixed issue loading certain player profiles
+ - Fixed issue with admin fixtures showing wrong progress label
+ - Added background job to cleanup missing player numbers
+ - Added background job to cleanup missing league player records
+ - Added delete league functions to be more thorough (danger)
+   
 ***Platform** - 30th October 2024*
  - Fixed issue where predetermined knockouts would use the old method if doing a manual draw
  - Fixed issue working out the winner for kockout matches using six red shootout as decider
