@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 6th November 2024*
+ - Fixed issue with contact form reply address being wrong
+ - Fixed issue with league player fix adding null records
+ - Added button to main comp details from drawsheet
+
 ***Platform** - 5th November 2024*
  - Modified the 147 Sports arena screens
  - Fixed issue loading certain player profiles
