@@ -6,6 +6,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue with contact form reply address being wrong
  - Fixed issue with league player fix adding null records
  - Added button to main comp details from drawsheet
+ - Fixed issue generating mini knockout groups
 
 ***Platform** - 5th November 2024*
  - Modified the 147 Sports arena screens
