@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 13th November 2024*
+ - Fixed issue with stream overlay displaying player names if not locked in
+ - Fixed issue with opening scorecard editor for indovoduals comps using a match format
+ - Fixed issue with 2 legs options not appearing properly
+ - Added support for an additional lag type to be selected "Lag by section" - to be supported in next release of the app
+   
 ***Platform** - 6th November 2024*
  - Fixed issue with contact form reply address being wrong
  - Fixed issue with league player fix adding null records
