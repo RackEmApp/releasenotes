@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 15th November 2024*
+ - Fixed issue where you could not edit/replace a bye in a mini knockout
+
 ***Platform** - 13th November 2024*
  - Fixed issue with stream overlay displaying player names if not locked in
  - Fixed issue with opening scorecard editor for indovoduals comps using a match format
