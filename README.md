@@ -3,6 +3,11 @@ This page displays the release note information for the RackEmApp Platform and t
 
 ---
 ***Platform** - 15th November 2024*
+ - Fixed issue progressing matches for mini knockouts.
+ - Fixed issue generating fixtures poster with the secondary calendar
+ - Fixed error editing triples results when a 4th player is optional
+   
+***Platform** - 15th November 2024*
  - Fixed issue where you could not edit/replace a bye in a mini knockout
 
 ***Platform** - 13th November 2024*
