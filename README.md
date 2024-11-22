@@ -11,6 +11,9 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added more loading spinners to improve the user experience
 
 ***Platform** - 22nd November 2024*
+ - Fixed issues with Dish table not taking into account all dishes when using certain rankings methods
+ - Fixed issue with the singles leagues not displaying schedule information
+ - Refactored team page to fix duplicated matches issue
  - Fixes to support app version 1.6.0
  - Removed redundant code causing error viewing competition
  - Fixed issue progressing matches for mini knockouts.
