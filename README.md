@@ -10,7 +10,9 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added developer mode
  - Added more loading spinners to improve the user experience
 
-***Platform** - 15th November 2024*
+***Platform** - 22nd November 2024*
+ - Fixes to support app version 1.6.0
+ - Removed redundant code causing error viewing competition
  - Fixed issue progressing matches for mini knockouts.
  - Fixed issue generating fixtures poster with the secondary calendar
  - Fixed error editing triples results when a 4th player is optional
