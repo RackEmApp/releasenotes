@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 22nd November 2024 (1.6.0)*
+ - Added support for "Lag By Match Section"
+ - Fixed issue with time not displaying on competition matches for smaller devices
+ - Added view of scheduled match date/time on matches which are scheduled by admin
+ - Made the buttons on the scoreboard bigger and stopped overlapping
+ - Added developer mode
+ - Added more loading spinners to improve the user experience
+
 ***Platform** - 15th November 2024*
  - Fixed issue progressing matches for mini knockouts.
  - Fixed issue generating fixtures poster with the secondary calendar
