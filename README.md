@@ -2,6 +2,20 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 25th November 2024*
+ - Temporary removal of player profiles
+ - Temporary removal of 2 legs from next match
+ - Added handicaps to singles league page
+ - Sorted matches by time in singles league page
+ - Fix issue accessing player profiles
+ - Fixed issue with player invites generating wrong URLs from app
+ - Fixed issue accessing next match/next fixztures when its a 2 legged match
+ - Fix for team pages with bye competition entries
+ - Fixed jump to lowest incomplete round
+ - Fixed issue wih complete competition button appearing too early
+ - Fixed issue accessing certain competition, null value
+ - Fixed issue with set to table combo not appearing
+
 ***App** - 22nd November 2024 (1.6.0)*
  - Added support for "Lag By Match Section"
  - Fixed issue with time not displaying on competition matches for smaller devices
