@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 27th November 2024*
+ - Rewritten player profiles
+ - Updated "Next Match" algorithm
+
 ***Platform** - 25th November 2024*
  - Temporary removal of player profiles
  - Temporary removal of 2 legs from next match
