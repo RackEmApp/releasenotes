@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 28th November 2024*
+ - Added logs to understand who was accessing player profiles
+ - Added invisible captcha mechanism to stop search bots accessing the player profiles
+ - Fixed issue with mini knockout proceed to next round not advancing players
+ - Fixed issue with merge players not allowing it when the player is a vice captain
+ - Fixed issue with next match when scheduled
+
 ***Platform** - 27th November 2024*
  - Rewritten player profiles
  - Updated "Next Match" algorithm
