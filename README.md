@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 29th November 2024*
+ - Fixed issue with the randomization of players in cup matches
+ - Fixed issue accessing the scorecard editor in 3/4 man comps
+ - Fixed issue preventing certain league tables being obtained by the app due to some JSOn circular referencing
+ - Fixed issue committing comp results when points per dish is enabled
+ - Fixed issue deselecting players in the scorecard for team competitions
+
 ***Platform** - 28th November 2024*
  - Added logs to understand who was accessing player profiles
  - Added invisible captcha mechanism to stop search bots accessing the player profiles
