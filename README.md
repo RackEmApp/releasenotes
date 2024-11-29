@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 30th November 2024*
+ - Added XSS prevenative measures for file uploads
+ - Added XSS preventative measure in registration form
+ - Added lockout mechanism to prevent brute force attacks
+
 ***Platform** - 29th November 2024*
  - Fixed issue with the randomization of players in cup matches
  - Fixed issue accessing the scorecard editor in 3/4 man comps
