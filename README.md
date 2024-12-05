@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 4th December 2024*
+ - Major rearchitecture change to separate out core, website and api code more cleanly for future separation
+ - Added "Booking category" to table bookings when using shared venue so that its clear what booking type it is to the venue
+ - Fixed issues with mini knockouts (Manual draw, auto draw, progressing rounds)
+ - Fixed issue with the rnadomizing of players
+ - Added new bespoke rankings method for Croydon
+ - Added the ability for Referee pop up to show which tables are in use
+
 ***Platform** - 30th November 2024*
  - Added XSS prevenative measures for file uploads
  - Added XSS preventative measure in registration form
