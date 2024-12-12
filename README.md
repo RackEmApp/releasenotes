@@ -2,6 +2,28 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 12th December 2024*
+ - Added donation button to Dementia UK
+ - Fixed issue wtih deciding frames randomizing on lockin
+
+***Platform** - 11th December 2024*
+ - Fixed basket redirect from mobile app
+
+***Platform** - 10th December 2024*
+ - Made shot clock persistent oin stream overlay
+
+***Platform** - 9th December 2024*
+ - Added HTML Emoji support to arena screens and stream overlay
+ - Fixed issue with next match algorithm for 2 leg matches
+ - Fixed issue with bespoke rankings for Croydon
+ - Fixed issue with failed logins not redirecting properly
+
+***Platform** - 6th December 2024*
+ - Numerous fixes to two legged match setup
+ - Fixed issue where Complete Season would not work if the season had a single quote in
+ - Fixed issue where links from app wouldn;t redirect properly
+ - Fixed remove from basket button
+
 ***Platform** - 4th December 2024*
  - Major rearchitecture change to separate out core, website and api code more cleanly for future separation
  - Added "Booking category" to table bookings when using shared venue so that its clear what booking type it is to the venue
