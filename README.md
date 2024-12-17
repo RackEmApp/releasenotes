@@ -2,6 +2,16 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 17th December 2024*
+ - Fixed an issue with the next match not returning the scheduled venue
+
+***Platform** - 16th December 2024*
+ - Fixed an issue in scheduling matches not opening when using predetermined/DE
+ - Fixed issue with next match not pulling competition matches with a scheduled date different to and after the round date
+
+***Platform** - 13th December 2024*
+ - Fix to player frofiles competition dish stat not adding up right
+
 ***Platform** - 12th December 2024*
  - Added donation button to Dementia UK
  - Fixed issue wtih deciding frames randomizing on lockin
