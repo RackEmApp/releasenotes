@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 18th December 2024*
+ - Added support for a customizable Top Gun label
+
 ***Platform** - 17th December 2024*
  - Fixed an issue with the next match not returning the scheduled venue
 
