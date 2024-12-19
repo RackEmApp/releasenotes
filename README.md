@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 19th December 2024*
+ - Fixed issue with player rankings for all divisions pulling old data
+ - Started work on Man of the Match feature
+
 ***Platform** - 18th December 2024*
  - Added support for a customizable Top Gun label
 
