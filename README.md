@@ -2,6 +2,10 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 20th December 2024*
+ - Added all required support for Player of the Match functionality, pending its addition to the Mobile App
+ - Added endpoints to Mobile API to add/delete comments (with permission), pending its to the mobile app
+   
 ***Platform** - 19th December 2024*
  - Fixed issue with player rankings for all divisions pulling old data
  - Started work on Man of the Match feature
