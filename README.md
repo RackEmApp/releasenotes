@@ -2,9 +2,23 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - TBD (1.9.0)*
+ - Revamped team dashboard
+ - Added buttons for divisional fixtures and results pages that will let you switch between divisions
+ - Added Player of the Year capabiltities to submit/approve dialogs
+ - Added commenting system to team matches, including the ability for users to delete own comments and admins delete any comment
+
+***Platform** - 23rd December 2024*
+ - Comments made on the app are now visible on the webskte
+ - Admin tooling added to website for the deletion of comments
+ - Additional endpoints added to support fixtures and results functionality in-app
+
 ***Platform** - 20th December 2024*
  - Added all required support for Player of the Match functionality, pending its addition to the Mobile App
  - Added endpoints to Mobile API to add/delete comments (with permission), pending its to the mobile app
+
+***App** - 19th December 2024 (1.8.0)*
+ - Performance improvements to team dashboard
    
 ***Platform** - 19th December 2024*
  - Fixed issue with player rankings for all divisions pulling old data
@@ -38,6 +52,11 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue with next match algorithm for 2 leg matches
  - Fixed issue with bespoke rankings for Croydon
  - Fixed issue with failed logins not redirecting properly
+
+***App** - 19th December 2024 (1.8.0)*
+ - Fixed issues taping team/players etc not openiong web pages
+ - Scouting report fixes to last match
+ - Bigger buttons on scoreboard
 
 ***Platform** - 6th December 2024*
  - Numerous fixes to two legged match setup
@@ -82,13 +101,13 @@ This page displays the release note information for the RackEmApp Platform and t
  - Added handicaps to singles league page
  - Sorted matches by time in singles league page
  - Fix issue accessing player profiles
- - Fixed issue with player invites generating wrong URLs from app
+ - Fixed issue with player invites generating wrong URLs from 
  - Fixed issue accessing next match/next fixztures when its a 2 legged match
  - Fix for team pages with bye competition entries
  - Fixed jump to lowest incomplete round
- - Fixed issue wih complete competition button appearing too early
+ - Fixed issue wih complete competition button earing too early
  - Fixed issue accessing certain competition, null value
- - Fixed issue with set to table combo not appearing
+ - Fixed issue with set to table combo not earing
 
 ***App** - 22nd November 2024 (1.6.0)*
  - Added support for "Lag By Match Section"
