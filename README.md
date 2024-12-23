@@ -2,7 +2,7 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - TBD (1.9.0)*
+***App** - 24th December 2024 (1.9.0)*
  - Revamped team dashboard
  - Added buttons for divisional fixtures and results pages that will let you switch between divisions
  - Added Player of the Year capabiltities to submit/approve dialogs
