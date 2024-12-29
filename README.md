@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 30th December 2024 (1.10.0)*
+ - Added deeplinking support to access scoreboards via a QR code
+ - Fixed issue with scoreboard when handicaps are applied.
+
+***Platform** - 30th December 2024 (1.10.0)*
+ - Added support for QR Code generation poster for tables
+
 ***App** - 24th December 2024 (1.9.0)*
  - Revamped team dashboard
  - Added buttons for divisional fixtures and results pages that will let you switch between divisions
