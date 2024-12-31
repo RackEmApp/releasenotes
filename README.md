@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 1st January 2025*
+ - Added the ability to resequence sponsors on the website
+
 ***App** - 31st December 2024 (1.10.2)*
  - Added support for adjustable Joker method
 
