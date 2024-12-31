@@ -2,12 +2,19 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 31st December 2024 (1.10.2)*
+ - Added support for adjustable Joker method
+
+***Platform** - 31st December 2024*
+ - Added support for adjustable Joker method
+ - WIP for setting the sequence of sponsors
+
 ***App** - 30th December 2024 (1.10.1)*
  - Added deeplinking support to access scoreboards via a QR code
  - Fixed issue with scoreboard when handicaps are applied.
  - Fixed issue where competitions and invoices not appearing in dashboard
 
-***Platform** - 30th December 2024 (1.10.0)*
+***Platform** - 30th December 2024*
  - Added support for QR Code generation poster for tables
 
 ***App** - 24th December 2024 (1.9.0)*
