@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 7th January 2025*
+ - Fixed issue with league admin permission toggle across leagues
+ - Hide byes from app division matches list
+ - Altered season filter on get division matches query for mobile app
+ - Exclude forfeits from player profile page
+ - Fixes to Top Gun not identifieying first two frames properly
+ - Fixed issue where new competitions would default to a match format
+
 ***Platform** - 1st January 2025*
  - Added the ability to resequence sponsors on the website
 
