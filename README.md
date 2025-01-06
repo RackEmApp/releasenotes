@@ -9,6 +9,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Exclude forfeits from player profile page
  - Fixes to Top Gun not identifieying first two frames properly
  - Fixed issue where new competitions would default to a match format
+ - Added "Pay by Cash" as an option for online entry form
 
 ***Platform** - 1st January 2025*
  - Added the ability to resequence sponsors on the website
