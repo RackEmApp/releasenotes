@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 8th January 2025*
+ - Added quantities to progress indicator in online comp entry screen
+ - Fixed issue with app sponsors being returned without a league filter
+
+***App** - 7th January 2025 (1.12.0)*
+ - Added support for Sponsors in app
+ - Resolved compatibility issues
+
 ***Platform** - 7th January 2025*
  - Fixed issue with league admin permission toggle across leagues
  - Hide byes from app division matches list
