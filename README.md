@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 10th January 2025*
+ - Altered the JWT issuer and audience to match so that the auto-login works with links from the app
+
+***App** - 9th January 2025 (1.13.0)* 
+ - Added support for Sentry to capture exceptions
+
 ***Platform** - 8th January 2025*
  - Added quantities to progress indicator in online comp entry screen
  - Fixed issue with app sponsors being returned without a league filter
