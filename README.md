@@ -5,6 +5,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ***App** - 11th January 2025 (1.14.0)* 
  - Fixed issue with scoreboard not showing right player names for indivuidual comps
  - UI improvements to fixtures and results screens
+ - Fix to make google keyboard not overlap text entry fields
 
 ***Platform** - 10th January 2025*
  - Altered the JWT issuer and audience to match so that the auto-login works with links from the app
