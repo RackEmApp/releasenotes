@@ -2,8 +2,15 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 11th January 2025 (1.14.0)* 
+ - Fixed issue with scoreboard not showing right player names for indivuidual comps
+ - UI improvements to fixtures and results screens
+
 ***Platform** - 10th January 2025*
  - Altered the JWT issuer and audience to match so that the auto-login works with links from the app
+ - Fixed issue accessing comp rounds that occurred for Watford
+ - Altered Mobile API to correctly return challenge match data for competition matches
+ - Altered Mobile API to return date properly so rersults appear in the right order
 
 ***App** - 9th January 2025 (1.13.0)* 
  - Added support for Sentry to capture exceptions
