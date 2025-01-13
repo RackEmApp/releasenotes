@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 13th January 2025*
+ - Fixed issue with group stage matches returning incorrectly in the fixture list
+ - Added an ability for competition emails to only be sent to unpaid entries
+ - Added support for a configurable Player of the Match setting, for own team, other team or either team
+ - Fixed an issue where generating group matches for play each other 4 times wasn't working
+
 ***App** - 11th January 2025 (1.14.0)* 
  - Fixed issue with scoreboard not showing right player names for indivuidual comps
  - UI improvements to fixtures and results screens
