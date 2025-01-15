@@ -2,6 +2,17 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - TBD (1.15.0)* 
+ - Historical byes are hidden on the fixtures list
+
+***Platform** - 15th January 2025*
+ - Fixed issue accessing fixtures and results on app
+ - Fixed issue committing team scorecard results
+ - Fixed issue accessing webpages from the app resulting in an error
+
+***App** - 14th January 2025 (1.14.0)* 
+ - Added support for configurable Player of the match
+
 ***Platform** - 13th January 2025*
  - Fixed issue with group stage matches returning incorrectly in the fixture list
  - Added an ability for competition emails to only be sent to unpaid entries
