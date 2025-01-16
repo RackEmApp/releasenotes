@@ -2,8 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - TBD (1.15.0)* 
+***App** - TBD (1.16.0)* 
  - Historical byes are hidden on the fixtures list
+
+***Platform** - 15th January 2025*
+ - Fixed issue opening individual comps with a match format result editor
+ - Fixed comp entry erroring when full rather thana dding to reserve list (if configured)
+ - Fixed issue saving ruleset against season
 
 ***Platform** - 15th January 2025*
  - Fixed issue accessing fixtures and results on app
@@ -12,7 +17,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed Next Match issue when there is a null entry in the match
  - Added new table sort method - Frames, Wins, H2H
 
-***App** - 14th January 2025 (1.14.0)* 
+***App** - 14th January 2025 (1.15.0)* 
  - Added support for configurable Player of the match
 
 ***Platform** - 13th January 2025*
