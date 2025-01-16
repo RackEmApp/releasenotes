@@ -10,6 +10,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue committing team scorecard results
  - Fixed issue accessing webpages from the app resulting in an error
  - Fixed Next Match issue when there is a null entry in the match
+ - Added new table sort method - Frames, Wins, H2H
 
 ***App** - 14th January 2025 (1.14.0)* 
  - Added support for configurable Player of the match
