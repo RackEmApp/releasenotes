@@ -5,8 +5,8 @@ This page displays the release note information for the RackEmApp Platform and t
 ***App** - TBD (1.15.1)* 
  - Historical byes are hidden on the fixtures list
  - POTM to appear on scorecards
+ - Fixed issue which prevents the submit match button to be pressed when a null player in the POTM picker
 
- - 
 ***Platform** - 15th January 2025*
  - Fixed issue with Sets matches not returning right score for scoreboard in mobile app
  - Fixed issue adding scores in referee mode for challenge matches
