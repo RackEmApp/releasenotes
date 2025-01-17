@@ -2,8 +2,18 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - TBD (1.16.0)* 
+***App** - TBD (1.15.1)* 
  - Historical byes are hidden on the fixtures list
+ - POTM to appear on scorecards
+
+ - 
+***Platform** - 15th January 2025*
+ - Fixed issue with Sets matches not returning right score for scoreboard in mobile app
+ - Fixed issue adding scores in referee mode for challenge matches
+ - Fixed issue with Reserves breaking the competition page
+ - Fixed issue accessing group competition page with Byes
+ - Fixed issue with doubles wins on player profile page
+ - Fixed issue saving challenges matches returns all completed matches
 
 ***Platform** - 15th January 2025*
  - Fixed issue opening individual comps with a match format result editor
