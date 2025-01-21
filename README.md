@@ -2,7 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***App** - TBD (1.15.1)* 
+***Platform** - 22nd January 2025*
+ - Fix to access divisions page in season when no match formats defined
+ - Fix to transfer modal
+ - Fix to get correct next match
+ - Fix issues deleting season team with a single quote in
+ - Fixes null seasonteam issue in group matches
+
+***App** - 19th January 2025(1.15.1)* 
  - Historical byes are hidden on the fixtures list
  - POTM to appear on scorecards
  - Fixed issue which prevents the submit match button to be pressed when a null player in the POTM picker
