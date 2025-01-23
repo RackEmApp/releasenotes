@@ -2,6 +2,9 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 23rd January 2025*
+ - Fix issue opening some scorecards in copmpetition admin
+
 ***Platform** - 22nd January 2025*
  - Fix to access divisions page in season when no match formats defined
  - Fix to transfer modal
