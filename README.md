@@ -2,6 +2,27 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - MAJOR UPDATE - TBD*
+ - FEATURE - Added ability to demote to entries to the reserve list
+ - FEATURE - Editing league scorecards will no longer collapse the list behind
+ - FEATURE - Abioity to quickly add another competition entry without the box closing and needing reopening
+ - FIX - Fixed issue with emailing unpaid comp entries
+ - Look and feel as well as user experience improvements
+ - Consolidation of all scorecard editors, referee modes etc
+ - Consolidation of use of timers including reusable component
+ - Consistent use of dependency injection
+ - Major architectural overhaul including use of components to improve consistency across the UI
+
+***Platform** - 4th February 2025*
+ - Live scores fix when using match section bonus points
+ - Fixed issue getting 2 leg matches in fixtues page
+ - Fixed issue getitng next match when there is a dependent match for a competition
+
+***Platform** - 30th January 2025*
+ - Fixed issue accessing scorecard for doubles when no disher indicated
+ - Fixed issue accessing team pages with null competition entries
+ - Fixed issue with team registration getting an unapproved previous seasons team list
+
 ***Platform** - 23rd January 2025*
  - Fix issue opening some scorecards in copmpetition admin
 
