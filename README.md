@@ -8,8 +8,11 @@ This page displays the release note information for the RackEmApp Platform and t
  - FEATURE - Abioity to quickly add another competition entry without the box closing and needing reopening
  - FIX - Fixed issue with emailing unpaid comp entries
  - Look and feel as well as user experience improvements
+ - Altered player search to use a consistent endpoint and views across the paltform
  - Consolidation of all scorecard editors, referee modes etc
  - Consolidation of use of timers including reusable component
+ - Stripping out large controllers into more defined ones for specific purposes
+ - All score entry points using shared services
  - Consistent use of dependency injection
  - Major architectural overhaul including use of components to improve consistency across the UI
 
