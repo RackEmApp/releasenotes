@@ -15,6 +15,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - All score entry points using shared services
  - Consistent use of dependency injection
  - Major architectural overhaul including use of components to improve consistency across the UI
+ - Fixtures Results Competition Matches and Competition Results all merged to utilise the same "Matches" entity with simplified frame and frameplayer tables
 
 ***Platform** - 4th February 2025*
  - Live scores fix when using match section bonus points
