@@ -2,10 +2,29 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
-***Platform** - MAJOR UPDATE - TBD*
+***App** - 21st February 2025(1.16.4)* 
+ - Fixed issue preventing more than one forfeit frame to be selected
+ - Fixed issue with scorecard not reloading on changed properly
+
+***App** - 20th February 2025(1.16.2)* 
+ - Fixed crashing with standlone shot time
+ - Fixed issue with incorrect date showing in certain fixture groupings
+
+***App** - 18th February 2025(1.16.1)* 
+ - Added the ability for team matches to auto-push to assigned table for arena screen or stream purposes 
+ - Modified shot clock so it appears in line with scorecard and doubles up as a remote shot timer for arena screen/stream
+ - Added integrated match clock which remote controls arena screen match clock Added new startup phrases Modified competition page to jumpt so singles league if appropriate
+ - Performance improvements
+ - Bug Fixes
+
+***Platform** - 9th Feb 2025 to 21st Feb*
+ - Various fixes steming from the large update, too many to list individually
+
+***Platform** - 9th Feb 2025*
  - FEATURE - Added ability to demote to entries to the reserve list
  - FEATURE - Editing league scorecards will no longer collapse the list behind
  - FEATURE - Abioity to quickly add another competition entry without the box closing and needing reopening
+ - FEATURE - Major update to Arena Screens
  - FIX - Fixed issue with emailing unpaid comp entries
  - Look and feel as well as user experience improvements
  - Altered player search to use a consistent endpoint and views across the paltform
