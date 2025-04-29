@@ -2,6 +2,21 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - April 2025* 
+ - New addition of Predetermined Knockouts with Random draws, 2 new methods
+ - New arena screen setup with improved UI and better support for shot and match clocks using SignalR
+ - Performance enhancements and intorduction of Redis to cache frwquently accessed but reasonably static data types with expiration method
+ - New tie breaker method "FD, H2H, match Wins"
+ - Add ability to ignore tie break frames from player rankings
+ - Add ability for Tie break frames to be omitted from the FD of the league table
+ - Loads of bug fixes
+   
+***Platform** - MAJOR UPDATE March 2025* 
+ - Total refactor of everything combining league and competition matches into a single entity
+ - Multiple UI improvements and making things more consistent
+ - Re-architect of entire solution to favour dependency injection and be more SOLID
+ - More fixes than I can list relating to the implementation of this new setup
+
 ***App** - 21st February 2025(1.16.4)* 
  - Fixed issue preventing more than one forfeit frame to be selected
  - Fixed issue with scorecard not reloading on changed properly
