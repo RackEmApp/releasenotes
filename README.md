@@ -2,6 +2,11 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 1st May 2025* 
+ - Fixed issue swapping entries in group stages changing the entries for the wrong matches
+ - Altered edit player in competition screen so you can only edit the players in an entry from the entry screen, which simplifies things
+ - FIxed some javascript issues causing background errors on the comp round screens
+   
 ***Platform** - April 2025* 
  - New addition of Predetermined Knockouts with Random draws, 2 new methods
  - New arena screen setup with improved UI and better support for shot and match clocks using SignalR
