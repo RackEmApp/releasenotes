@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 7th May 2025* 
+ - Allow round settings to be altered even for completed rounds
+ - Add player to players database if enetering online and not already in players database
+ - Change app player list stats to incldue cup
+ - Fix issues relating to edit pencils in double elimination comps
+ - Fixed issue with online series entry
+
 ***Platform** - 1st May 2025* 
  - Fixed issue swapping entries in group stages changing the entries for the wrong matches
  - Altered edit player in competition screen so you can only edit the players in an entry from the entry screen, which simplifies things
