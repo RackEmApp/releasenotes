@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 8th May 2025* 
+ - Altered get scouting report endpoint for performance reasons
+ - Add update round button for completed rounds
+ - Only show calendar dates for competition setup where either season is null, or season is not yet completed
+ - Match listing formatting updates
+
 ***Platform** - 7th May 2025* 
  - Allow round settings to be altered even for completed rounds
  - Add player to players database if enetering online and not already in players database
