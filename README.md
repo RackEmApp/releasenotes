@@ -7,6 +7,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Add update round button for completed rounds
  - Only show calendar dates for competition setup where either season is null, or season is not yet completed
  - Match listing formatting updates
+ - Dependent matches for teams needed to set the venue and table
 
 ***Platform** - 7th May 2025* 
  - Allow round settings to be altered even for completed rounds
