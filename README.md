@@ -14,6 +14,7 @@ This page displays the release note information for the RackEmApp Platform and t
 - Fixed issue with file uploads from app
 - Added in TopGunPlayed to rankings view
 - Fix to rankings identified by Barking league
+- Fixed issue not resetting ball colours in referee mode between frames
 
 ***Platform** - 8th May 2025* 
  - Altered get scouting report endpoint for performance reasons
