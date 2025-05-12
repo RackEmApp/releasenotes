@@ -2,6 +2,19 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 13th May 2025* 
+- Fixed issue using Top Gun as ranking method not tie brekaing on the right average field
+- Fixed issue with presssing buttons in refree mode resulting in errors
+- Added "Auto assign to home team table" for individual comps
+- Fixes to background javascript error relating to additional frames quantity
+- Fixed issue where in a "draw from" round in double elimination, if you commit the upstream match more than once it redraws them into the round resulting in duplicates
+- Fixed double elimination randomised rounds to update downstream match
+- Auto assign tables now works per competition, not round
+- Added ability for stream tables to be auto assigned by matches labelled as streamable
+- Fixed issue with file uploads from app
+- Added in TopGunPlayed to rankings view
+- Fix to rankings identified by Barking league
+
 ***Platform** - 8th May 2025* 
  - Altered get scouting report endpoint for performance reasons
  - Add update round button for completed rounds
