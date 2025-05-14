@@ -2,6 +2,13 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 15th May 2025* 
+ - Fixed refereeing list error when a ref is assigned a match that has not had its entries determined yet
+ - Competition matches report
+ - Update logic for getting next match for improved performance
+ - Removed caching from getmyteams endpoint
+ - Improvements to table light operations, including showing the incurred costs when using pay as you go
+
 ***Platform** - 13th May 2025* 
 - Fixed issue using Top Gun as ranking method not tie brekaing on the right average field
 - Fixed issue with presssing buttons in refree mode resulting in errors
