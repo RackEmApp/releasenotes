@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 20th May 2025* 
+ - Fixed issue auto assigning tables
+ - Added button shortcut to bookings public page in bookings backend
+ - Fixed a competition page issue identified by MPL
+ - Fixed issues with venue page
+ - MAJOR CHANGE - Started converting all functionality to fully async. Initial deployment contained essential controllers for matchday functionality, like the Mobile API, Main website pages and all servives. Working my way through the controllers now.
+ - Performance fixes relating to Update Scores method and general query optimizations all over the place
+
 ***Platform** - 15th May 2025* 
  - Fixed refereeing list error when a ref is assigned a match that has not had its entries determined yet
  - Competition matches report
