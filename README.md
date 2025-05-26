@@ -2,6 +2,33 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 21st May 2025* 
+ - Added confirguable races in subrounds for mini knockouts
+ - Fixed issue with mini knockouts not displaying away winner of details correctly in public page
+ - Fixed issue in dev environment with localhost links
+ - Fixed issue with team pages not showing results
+ - Fixed away dependent matches showing as green incorrectly
+ - Limit hangfire parallel threads
+ - Fixed issue with admin-scorecard updating
+
+***Platform** - 22nd May 2025* 
+ - Fixed issue with table clashes not showing for group matches
+ - Move of folders for components
+
+***Platform** - 21st May 2025* 
+ - Added a bunch of observability changes to track active users
+ - Fixed issue where comp pages not showing certain matches
+
+***Platform** - 20th May 2025* 
+ - Lots of changes to make everything run async and plenty of performance improvements
+ - Fixes to the generation of deciding frames
+ - Fixed issue where dependent matches were updated with wrong team info
+ - Removed "Replace whole team in competition" as no longer need
+ - Added ability for result editor to only show matches in play or overdue.
+ - Fixed issue regenerating fixtures
+ - Fixed issue where 3 man comps with 4 players had lots of errors when only 3 entered
+
+
 ***Platform** - 20th May 2025* 
  - Fixed issue auto assigning tables
  - Added button shortcut to bookings public page in bookings backend
