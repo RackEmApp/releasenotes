@@ -23,6 +23,8 @@ This page displays the release note information for the RackEmApp Platform and t
  - Fixed issue with min knockouts not displaying away winner in publoic pgae
  - Made some changes to scoreboard for improved tracking
  - Modifications to code for win approvals to improve reliability
+ - Fixed issue swapping entries in competition matches
+ - Stopped the ability to advance a match containing an already advanced entry
 
 ***Platform** - 21st May 2025* 
  - Added confirguable races in subrounds for mini knockouts
