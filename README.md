@@ -25,6 +25,7 @@ This page displays the release note information for the RackEmApp Platform and t
  - Modifications to code for win approvals to improve reliability
  - Fixed issue swapping entries in competition matches
  - Stopped the ability to advance a match containing an already advanced entry
+ - Fix to issue setting "play each team x" per division
 
 ***Platform** - 21st May 2025* 
  - Added confirguable races in subrounds for mini knockouts
