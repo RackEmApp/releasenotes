@@ -2,6 +2,28 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 30th May 2025* 
+ - Fixed competition archive to show all non perpetuals
+ - Fixed season payment to stop throwing error on checkout (was redirecting to old route)
+ - Fixed issue with ROH results pages not loading
+ - Improved dashboard loading time
+ - Fixed issue cancelling table bookings
+ - Fixed issue with sets matches and draws in league tables
+ - Improved UI for divisions config in season setup incljuding adding team name
+ - Fixed issue with table clashes not showing for group matches
+ - Moved components
+ - Removed hangfire user cleanup
+ - Fixed issue with league table sorting
+ - Added ability for Mini Knockouts so have different races in subrounds
+ - Fixed issue with adm updayting of scorecard
+ - Limited hangfire parralel threads to improve performance
+ - Fixed away dependent matches showing as green
+ - Fixed issue with team pages not showing result
+ - Fixed issue with dev environment localhost links
+ - Fixed issue with min knockouts not displaying away winner in publoic pgae
+ - Made some changes to scoreboard for improved tracking
+ - Modifications to code for win approvals to improve reliability
+
 ***Platform** - 21st May 2025* 
  - Added confirguable races in subrounds for mini knockouts
  - Fixed issue with mini knockouts not displaying away winner of details correctly in public page
