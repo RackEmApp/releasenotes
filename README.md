@@ -2,6 +2,12 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***Platform** - 3rd June 2025* 
+ - Added ability to issue penalties for competition groups/singles leagues
+ - Added ability for you to record frame penalties that impact Frame Difference
+ - Fixed issue deleting users when related records in deletedplayerlog
+ - Fixed issue with the croydon rankings page
+
 ***Platform** - 30th May 2025* 
  - Fixed competition archive to show all non perpetuals
  - Fixed season payment to stop throwing error on checkout (was redirecting to old route)
