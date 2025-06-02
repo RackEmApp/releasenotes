@@ -5,6 +5,7 @@ This page displays the release note information for the RackEmApp Platform and t
 ***Platform** - 3rd June 2025* 
  - Added ability to issue penalties for competition groups/singles leagues
  - Added ability for you to record frame penalties that impact Frame Difference
+ - Added setting for "Allow competition entry for your league players only"
  - Fixed issue deleting users when related records in deletedplayerlog
  - Fixed issue with the croydon rankings page
 
