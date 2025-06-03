@@ -2,6 +2,14 @@
 This page displays the release note information for the RackEmApp Platform and the RackEmApp Mobile Application. To subscribe to changes in our release notes, you can watch [this GitHub Repository](https://github.com/RackEmApp/releasenotes).
 
 ---
+***App** - 4th June 2025 (1.30.0)* 
+ - Registering a new player now features a search option
+ - Form of players now includes a % metric so you know their win percentage over the last 10 frames
+ - Match format instructions now support HTML
+ - Added filters and overdue match alerts to the My Matches page
+ - Massive performance upgrade
+ - Fix to player averages decimal place
+
 ***Platform** - 3rd June 2025* 
  - Added ability to issue penalties for competition groups/singles leagues
  - Added ability for you to record frame penalties that impact Frame Difference
